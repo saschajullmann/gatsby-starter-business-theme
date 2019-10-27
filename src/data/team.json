@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "name": "Michael Richards",
+        "position": "CEO",
+        "avatar": "../assets/images/avatars/filler.jpg",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.",
+        "email": "michael@mycompany.com",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": "2",
+        "name": "James Burns",
+        "position": "Senior Partner",
+        "avatar": "../assets/images/avatars/filler.jpg",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.",
+        "email": "james@mycompany.com",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": "3",
+        "name": "Barney Miller",
+        "position": "Senior Partner",
+        "avatar": "../assets/images/avatars/filler.jpg",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.",
+        "email": "barney@mycompany.com",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": "4",
+        "name": "Jenson Kane",
+        "position": "Sales Director",
+        "avatar": "../assets/images/avatars/filler.jpg",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.",
+        "email": "jenson@mycompany.com",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": "5",
+        "name": "Sebastian Gregory",
+        "position": "HR Director",
+        "avatar": "../assets/images/avatars/filler.jpg",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.",
+        "email": "sebastian@mycompany.com",
+        "twitter": "https://twitter.com"
+    },
+    {
+        "id": "6",
+        "name": "Kenny Meyers",
+        "position": "Head of Information Management",
+        "avatar": "../assets/images/avatars/filler.jpg",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.",
+        "email": "kenny@mycompany.com",
+        "twitter": "https://twitter.com"
+    }
+]

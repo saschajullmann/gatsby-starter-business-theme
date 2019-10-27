@@ -1,0 +1,38 @@
+{
+  "name": "business-theme",
+  "version": "1.0.0",
+  "description": "Gatsby starter for business websites",
+  "main": "index.js",
+  "author": "GatsbyThemes.com <Sascha Jullmann>",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/core": "^10.0.22",
+    "@emotion/styled": "^10.0.22",
+    "babel-plugin-emotion": "^10.0.22",
+    "feather-icons": "^4.24.1",
+    "gatsby": "^2.17.4",
+    "gatsby-link": "^2.2.22",
+    "gatsby-plugin-emotion": "^4.1.12",
+    "gatsby-plugin-remove-trailing-slashes": "^2.1.12",
+    "gatsby-plugin-sharp": "^2.2.32",
+    "gatsby-plugin-sitemap": "^2.2.19",
+    "gatsby-plugin-typography": "^2.3.14",
+    "gatsby-source-filesystem": "^2.1.33",
+    "gatsby-transformer-json": "^2.2.15",
+    "gatsby-transformer-remark": "^2.6.30",
+    "gatsby-transformer-sharp": "^2.3.0",
+    "parse-filepath": "^1.0.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-helmet": "^5.2.1",
+    "react-typography": "^0.16.19",
+    "styled-system": "^5.1.2",
+    "typography": "^0.16.19",
+    "typography-theme-de-young": "^0.16.19"
+  },
+  "scripts": {
+    "dev": "./node_modules/.bin/gatsby develop",
+    "telemetry-off": "./node_modules/.bin/gatsby telemetry --disable",
+    "build": "./node_modules/.bin/gatsby build"
+  }
+}
